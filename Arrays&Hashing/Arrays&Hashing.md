@@ -1,3 +1,7 @@
+# Lectures
+[[kunal-kushwa=Introduction-to-Hashmap&Hashtable]]
+[[MIT-Open-Course-ware=Hashing]]
+
 # Concepts used
 
 ## Dictionary
