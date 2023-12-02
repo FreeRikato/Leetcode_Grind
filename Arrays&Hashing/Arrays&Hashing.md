@@ -1,3 +1,15 @@
+# Lecture:
+## [Kunal Kushwaha: Introduction to HashMap & HashTable in Java](https://youtu.be/XLbvmMz8Fr8)
+
+- Find or get an element 
+  - In BST - O(logn)
+  - In HashTable - O(1)
+  - No traversal required nor searching required
+  - Just calculate the hash value and get the element
+
+- Hash map exists as key value pairs
+- map.get(key) - returns the value of the key
+- 
 # Concepts used
 
 ## Dictionary
@@ -18,3 +30,4 @@
 ## Sets
 - Sets to store the unique elements of the list
 - The ord function to get the ASCII value of the character
+
