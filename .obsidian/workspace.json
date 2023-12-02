@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "3e10d0e155cc9cdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "48ad7b97929dd9cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4e1de7406a9cc49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays&Hashing/Arrays&Hashing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26d881327b5a6deb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0395331850ac7c66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a251dc298c8d3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46ed1b40d9ce1979",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e79b365f2204be3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "79c95351d30955f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcfb3cc03fa99eb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "846888723fbe2f68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arrays&Hashing/Arrays&Hashing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14bace810fdc82fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arrays&Hashing/Arrays&Hashing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "335a6b91d75e9824",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "df91fedb7bdb5ebd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Arrays&Hashing/Arrays&Hashing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c4e1de7406a9cc49",
+  "lastOpenFiles": [
+    "MIT-Open-Course-ware=Hashing.md",
+    "Arrays&Hashing/Arrays&Hashing.md",
+    "kunal-kushwa=Introduction-to-Hashmap&Hashtable.md"
+  ]
+}
