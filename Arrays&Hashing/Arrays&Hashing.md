@@ -16,6 +16,8 @@
 - Sorted function to sort the list in ascending order
 - Any() function to check if any of the elements in the list is True
 - All() function to check if all the elements in the list is True
+- [default value] * size of the list will define a list with the given size and default value for each index
+- When you define a list within a list, avoid [[]] * size of the list which leads to shallow copy issue and use list comprehension
 - Bucket sort is used to sort the list based on the frequency of the elements in the list
 
 
